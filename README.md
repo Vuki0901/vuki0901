@@ -1,5 +1,5 @@
  # 💫 About Me:
-👨‍🎓 Univ. bacc. inf. @Faculty Informatics and Digital Technologies<br>💻 Developing solutions using .NET, Angular and Flutter
+👨‍🎓 Univ. bacc. inf. @Faculty of Informatics and Digital Technologies<br>💻 Developing solutions using .NET, Angular and Flutter
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leo-vukoje-2179121aa) 
